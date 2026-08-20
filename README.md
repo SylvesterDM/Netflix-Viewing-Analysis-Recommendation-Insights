@@ -1,2 +1,8 @@
-# Netflix-Viewing-Analysis-Recommendation-Insights
-Excel-based analysis of Netflix viewing behaviour using PivotTables, descriptive statistics, and correlation analysis.
+netflix-viewing-behaviour-analysis/
+│
+├── README.md
+├── Netflix_Viewing_Analysis.xlsx
+│
+└── images/
+    ├── dashboard.png
+    └── correlation-analysis.png
